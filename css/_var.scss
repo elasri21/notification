@@ -1,0 +1,36 @@
+// variables
+// Primary colors:
+$red: hsl(1, 90%, 64%);// bull-bg
+$bull-bg: $red;
+
+$blue: hsl(219, 85%, 26%);// bg and group name
+$notif-bg: $blue;
+
+// neutralcolor:
+$white: hsl(0, 0%, 100%);
+$container-bg: $white;
+
+$very-light-grayish-blue: hsl(210, 60%, 98%);// message bg
+$msg-bg: $very-light-grayish-blue;
+
+$light-grayish-blue-one: hsl(211, 68%, 94%); // box bg
+$box-bg: $light-grayish-blue-one;
+
+$light-grayish-blue-two: hsl(205, 33%, 90%);//main bg
+$main-bg: $light-grayish-blue-two;
+
+$grayish-blue: hsl(219, 14%, 63%);// text color
+$text-color: $grayish-blue;
+
+$dark-grayish-blue: hsl(219, 12%, 42%);// second text color
+$second-text-color: $dark-grayish-blue;
+
+$Very-dark-blue: hsl(224, 21%, 14%);// name color
+$names-color: $Very-dark-blue;
+
+//Topography
+$p-size: 16px;
+$family: 'Plus Jakarta Sans', sans-serif;
+
+// transition
+$trans: 0.3s;
